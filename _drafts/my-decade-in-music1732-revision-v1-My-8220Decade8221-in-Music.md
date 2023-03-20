@@ -1,6 +1,6 @@
 ---
 id: 1734
-title: 'My &#8220;Decade&#8221; in Music'
+title: 'My "Decade" in Music'
 date: '2019-12-08T02:47:40+00:00'
 author: 'Desdemona Wren'
 layout: revision

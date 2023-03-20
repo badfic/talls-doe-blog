@@ -1,6 +1,6 @@
 ---
 id: 1353
-title: 'Just Like Kevin: Chapter 6 (Well&#8230;he IS a Trump supporter, so)'
+title: 'Just Like Kevin: Chapter 6 (Well…he IS a Trump supporter, so)'
 date: '2019-09-10T07:45:35+00:00'
 author: 'Desdemona Wren'
 layout: post

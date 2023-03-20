@@ -1,6 +1,6 @@
 ---
 id: 380
-title: 'Vignette: &#8220;Friends&#8221;'
+title: 'Vignette: "Friends"'
 date: '2019-03-06T19:17:26+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -17,7 +17,7 @@ tags:
     - bisexuality
     - 'craig of the creek'
     - 'craxy ex-girlfriend'
-    - 'dc&#039;s legends of tomorrow'
+    - "dc's legends of tomorrow"
     - gay
     - lesbians
     - LGBTQIA+
@@ -25,7 +25,7 @@ tags:
     - 'our flag means death'
     - 'queer issues'
     - 'queer tv shows'
-    - 'renew dc&#039;s legends of tomorrow'
+    - "renew dc's legends of tomorrow"
     - representation
     - 'representation matters'
     - 'the owl house'

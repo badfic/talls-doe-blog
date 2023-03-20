@@ -1,6 +1,6 @@
 ---
 id: 1776
-title: 'NSFW: Violet &#038; Jasmine Artwork'
+title: 'NSFW: Violet &; Jasmine Artwork'
 date: '2020-03-10T21:34:16+00:00'
 author: 'Desdemona Wren'
 layout: revision

@@ -1,6 +1,6 @@
 ---
 id: 1260
-title: 'Secret Oblivion: Chapter 9 (I never liked long stories&#8230;I say, having written 8 novels)'
+title: 'Secret Oblivion: Chapter 9 (I never liked long stories…I say, having written 8 novels)'
 date: '2019-08-09T07:42:38+00:00'
 author: 'Desdemona Wren'
 layout: post

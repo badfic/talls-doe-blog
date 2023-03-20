@@ -1,6 +1,6 @@
 ---
 id: 266
-title: 'Playlist: Marjorie Diaz &#8211; Chapter 2: Relationship Goals'
+title: 'Playlist: Marjorie Diaz –; Chapter 2: Relationship Goals'
 date: '2019-02-01T13:33:36+00:00'
 author: 'Desdemona Wren'
 layout: post

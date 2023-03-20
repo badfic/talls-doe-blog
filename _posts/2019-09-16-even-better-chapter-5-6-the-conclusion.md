@@ -1,6 +1,6 @@
 ---
 id: 1373
-title: 'Even Better: Chapter 5 &#038; 6 (The conclusion)'
+title: 'Even Better: Chapter 5 &; 6 (The conclusion)'
 date: '2019-09-16T08:15:26+00:00'
 author: 'Desdemona Wren'
 layout: post

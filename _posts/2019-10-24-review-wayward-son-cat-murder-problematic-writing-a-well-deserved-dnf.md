@@ -1,6 +1,6 @@
 ---
 id: 1557
-title: 'Review: Wayward Son (Cat murder, problematic writing, &#038; a well-deserved DNF)'
+title: 'Review: Wayward Son (Cat murder, problematic writing, &; a well-deserved DNF)'
 date: '2019-10-24T09:00:00+00:00'
 author: 'Desdemona Wren'
 layout: post

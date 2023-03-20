@@ -1,6 +1,6 @@
 ---
 id: 166
-title: 'Book Reviews: Axiom &#8211; The Last Hope by Rachel Marie Pearcy'
+title: 'Book Reviews: Axiom –; The Last Hope by Rachel Marie Pearcy'
 date: '2019-01-09T18:06:40+00:00'
 author: 'Desdemona Wren'
 layout: post

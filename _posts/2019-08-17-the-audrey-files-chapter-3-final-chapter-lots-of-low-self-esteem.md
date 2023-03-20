@@ -1,6 +1,6 @@
 ---
 id: 1284
-title: 'The Audrey Files: Chapter 3 (Final chapter &#038; lots of low self-esteem)'
+title: 'The Audrey Files: Chapter 3 (Final chapter &; lots of low self-esteem)'
 date: '2019-08-17T07:42:18+00:00'
 author: 'Desdemona Wren'
 layout: post

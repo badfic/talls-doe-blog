@@ -1,6 +1,6 @@
 ---
 id: 1370
-title: 'Even Better: Chapter 3 &#038; 4 (Psychic iTunes playlists and balls)'
+title: 'Even Better: Chapter 3 &; 4 (Psychic iTunes playlists and balls)'
 date: '2019-09-15T08:11:07+00:00'
 author: 'Desdemona Wren'
 layout: post

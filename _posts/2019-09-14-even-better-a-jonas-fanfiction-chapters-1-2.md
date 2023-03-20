@@ -1,6 +1,6 @@
 ---
 id: 1367
-title: 'Even Better: A JONAS fanfiction (Chapters 1 &#038; 2)'
+title: 'Even Better: A JONAS fanfiction (Chapters 1 &; 2)'
 date: '2019-09-14T08:05:43+00:00'
 author: 'Desdemona Wren'
 layout: post

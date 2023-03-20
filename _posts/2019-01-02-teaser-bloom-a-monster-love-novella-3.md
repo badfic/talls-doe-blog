@@ -1,6 +1,6 @@
 ---
 id: 135
-title: 'Teaser: Bloom &#8211; A Monster Love Novella'
+title: 'Teaser: Bloom –; A Monster Love Novella'
 date: '2019-01-02T17:57:02+00:00'
 author: 'Desdemona Wren'
 layout: post

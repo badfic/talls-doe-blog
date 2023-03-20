@@ -1,6 +1,6 @@
 ---
 id: 74
-title: 'NSFW: Violet &#038; Jasmine Artwork'
+title: 'NSFW: Violet &; Jasmine Artwork'
 date: '2018-12-16T12:41:48+00:00'
 author: 'Desdemona Wren'
 layout: post

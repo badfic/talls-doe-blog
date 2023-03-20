@@ -1,6 +1,6 @@
 ---
 id: 1484
-title: 'Book Review: Red, White &#038; Royal Blue'
+title: 'Book Review: Red, White &; Royal Blue'
 date: '2019-08-28T07:00:00+00:00'
 author: 'Desdemona Wren'
 excerpt: 'Honestly, this book is my favorite book now.'

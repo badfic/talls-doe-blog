@@ -1,6 +1,6 @@
 ---
 id: 694
-title: 'Power Lines &#038; Internet Modems'
+title: 'Power Lines &; Internet Modems'
 date: '2019-06-06T13:28:58+00:00'
 author: 'Desdemona Wren'
 layout: post

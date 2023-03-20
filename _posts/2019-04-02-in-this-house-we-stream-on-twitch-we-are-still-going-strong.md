@@ -1,6 +1,6 @@
 ---
 id: 1078
-title: 'In this house, we stream on Twitch &#038; we are still going strong!'
+title: 'In this house, we stream on Twitch &; we are still going strong!'
 date: '2019-04-02T17:30:16+00:00'
 author: 'Desdemona Wren'
 layout: post

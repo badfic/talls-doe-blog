@@ -1,6 +1,6 @@
 ---
 id: 97
-title: 'Playlists: Bloom &#8211; A Monster Love Novella'
+title: 'Playlists: Bloom –; A Monster Love Novella'
 date: '2018-12-23T14:57:41+00:00'
 author: 'Desdemona Wren'
 layout: post

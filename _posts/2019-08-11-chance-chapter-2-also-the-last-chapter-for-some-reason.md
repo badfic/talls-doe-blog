@@ -1,6 +1,6 @@
 ---
 id: 1266
-title: 'Chance: Chapter 2 (Also the last chapter for&#8230;some reason)'
+title: 'Chance: Chapter 2 (Also the last chapter for…some reason)'
 date: '2019-08-11T07:07:55+00:00'
 author: 'Desdemona Wren'
 layout: post

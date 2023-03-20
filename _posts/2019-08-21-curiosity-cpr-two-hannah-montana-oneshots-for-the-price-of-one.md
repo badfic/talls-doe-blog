@@ -1,6 +1,6 @@
 ---
 id: 1299
-title: 'Curiosity &#038; CPR: Two Hannah Montana oneshots for the price of one.'
+title: 'Curiosity &; CPR: Two Hannah Montana oneshots for the price of one.'
 date: '2019-08-21T07:07:52+00:00'
 author: 'Desdemona Wren'
 layout: post

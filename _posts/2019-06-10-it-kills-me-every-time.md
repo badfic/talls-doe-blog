@@ -1,6 +1,6 @@
 ---
 id: 706
-title: '&#038; it kills me every time'
+title: '&; it kills me every time'
 date: '2019-06-10T13:33:50+00:00'
 author: 'Desdemona Wren'
 layout: post

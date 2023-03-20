@@ -1,6 +1,6 @@
 ---
 id: 189
-title: 'Writers Be Like&#8230;'
+title: 'Writers Be Like…'
 date: '2019-01-15T15:00:47+00:00'
 author: 'Desdemona Wren'
 layout: post

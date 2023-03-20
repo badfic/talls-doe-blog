@@ -1,6 +1,6 @@
 ---
 id: 1152
-title: 'My books may contain action, romance, &#038; gore. So uh. Read them?'
+title: 'My books may contain action, romance, &; gore. So uh. Read them?'
 date: '2019-05-14T14:41:47+00:00'
 author: 'Desdemona Wren'
 layout: post

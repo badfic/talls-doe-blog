@@ -1,6 +1,6 @@
 ---
 id: 193
-title: 'Tagged: Get to know my MC &#8211; 3 Values and 3 Flaws'
+title: 'Tagged: Get to know my MC –; 3 Values and 3 Flaws'
 date: '2019-01-16T15:00:49+00:00'
 author: 'Desdemona Wren'
 layout: post

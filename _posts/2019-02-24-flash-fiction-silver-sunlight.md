@@ -1,6 +1,6 @@
 ---
 id: 350
-title: 'Flash Fiction: Silver &#038; Sunlight'
+title: 'Flash Fiction: Silver &; Sunlight'
 date: '2019-02-24T12:19:26+00:00'
 author: 'Desdemona Wren'
 layout: post

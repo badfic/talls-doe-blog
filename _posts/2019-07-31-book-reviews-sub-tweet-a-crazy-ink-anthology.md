@@ -1,6 +1,6 @@
 ---
 id: 1005
-title: 'Book reviews: Sub Tweet &#8211; A Crazy Ink Anthology'
+title: 'Book reviews: Sub Tweet –; A Crazy Ink Anthology'
 date: '2019-07-31T07:22:09+00:00'
 author: 'Desdemona Wren'
 layout: post

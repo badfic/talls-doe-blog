@@ -1,6 +1,6 @@
 ---
 id: 83
-title: 'Books: Bloom &#8211; A Monster Love Novella'
+title: 'Books: Bloom –; A Monster Love Novella'
 date: '2018-12-19T13:13:51+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 999
-title: 'dreams, wishes, &#038; fates'
+title: 'dreams, wishes, &; fates'
 date: '2019-07-28T12:00:10+00:00'
 author: 'Desdemona Wren'
 layout: post

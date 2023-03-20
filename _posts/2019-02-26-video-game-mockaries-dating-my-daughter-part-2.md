@@ -1,6 +1,6 @@
 ---
 id: 356
-title: 'Video Game Mockaries: Dating My Daughter &#8211; Part 2'
+title: 'Video Game Mockaries: Dating My Daughter –; Part 2'
 date: '2019-02-26T13:02:31+00:00'
 author: 'Desdemona Wren'
 layout: post

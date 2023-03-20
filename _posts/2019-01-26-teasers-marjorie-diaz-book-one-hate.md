@@ -1,6 +1,6 @@
 ---
 id: 245
-title: 'Teasers: Marjorie Diaz Book One &#8211; Hate'
+title: 'Teasers: Marjorie Diaz Book One –; Hate'
 date: '2019-01-26T01:16:29+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 602
-title: 'I could&#8230;I should (Kylux)'
+title: 'I could…I should (Kylux)'
 date: '2019-05-09T14:29:50+00:00'
 author: 'Desdemona Wren'
 layout: post

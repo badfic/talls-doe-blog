@@ -1,6 +1,6 @@
 ---
 id: 651
-title: 'Stars &#038; Clouds'
+title: 'Stars &; Clouds'
 date: '2019-05-25T12:56:14+00:00'
 author: 'Desdemona Wren'
 layout: post

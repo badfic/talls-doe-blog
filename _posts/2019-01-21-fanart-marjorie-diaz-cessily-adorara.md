@@ -1,6 +1,6 @@
 ---
 id: 222
-title: 'Fanart: Marjorie Diaz &#8211; Cessily &#038; Adorara'
+title: 'Fanart: Marjorie Diaz –; Cessily &; Adorara'
 date: '2019-01-21T12:52:21+00:00'
 author: 'Desdemona Wren'
 layout: post

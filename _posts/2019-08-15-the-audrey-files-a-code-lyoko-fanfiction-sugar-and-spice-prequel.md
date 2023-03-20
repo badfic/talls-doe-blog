@@ -1,6 +1,6 @@
 ---
 id: 1278
-title: 'The Audrey Files: A Code Lyoko Fanfiction &#038; Sugar and Spice Prequel'
+title: 'The Audrey Files: A Code Lyoko Fanfiction &; Sugar and Spice Prequel'
 date: '2019-08-15T07:07:27+00:00'
 author: 'Desdemona Wren'
 layout: post

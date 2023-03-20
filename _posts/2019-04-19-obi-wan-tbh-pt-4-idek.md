@@ -1,6 +1,6 @@
 ---
 id: 527
-title: 'Obi-Wan TBH: pt 4 &#8211; idek'
+title: 'Obi-Wan TBH: pt 4 –; idek'
 date: '2019-04-19T13:34:06+00:00'
 author: 'Desdemona Wren'
 layout: post

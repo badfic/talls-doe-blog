@@ -1,6 +1,6 @@
 ---
 id: 1134
-title: "I have an email list &#038; here's why you should join"
+title: "I have an email list &; here's why you should join"
 date: '2019-05-07T13:35:09+00:00'
 author: 'Desdemona Wren'
 layout: post
