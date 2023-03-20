@@ -1,0 +1,49 @@
+---
+id: 1789
+title: '#1 glazed'
+date: '2021-01-16T04:51:31+00:00'
+author: 'Desdemona Wren'
+layout: revision
+guid: 'https://blog.desdemonawren.com/2021/01/16/1788-revision-v1/'
+permalink: '/?p=1789'
+---
+
+i have a broken relationship with confection
+
+the sugar that surrounds a piece of fried dough
+
+forged beneath the heat of distant flame
+
+you can watch
+
+behind a pane of glass
+
+face so close to the surface
+
+your breath fogs the pane and
+
+you see yourself there, reflected in the window
+
+like some uninhibited beast
+
+longing for the very vice that will undoubtedly
+
+bring your demise.
+
+i need to remember this is about me
+
+but it feels so much more appropriate to distance myself
+
+from the things i know hurt me
+
+i tell myself,
+
+it’s better this way
+
+better if i shove everything down until i vomit up bits of glaze
+
+parts of myself that refuse to stay hidden
+
+those disgusting little bits of me that seek out my own destruction
+
+through consumption.
