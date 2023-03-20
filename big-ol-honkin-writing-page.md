@@ -1,6 +1,6 @@
 ---
 id: 821
-title: 'Big Ol&#8217; Honkin Writing Page'
+title: "Big Ol' Honkin Writing Page"
 date: '2019-01-01T00:39:55+00:00'
 author: 'Desdemona Wren'
 layout: page
