@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: badfic/talls-doe-blog
+  name: git-gateway
   branch: main
 media_folder: 'wp-content/uploads'
 collections:
