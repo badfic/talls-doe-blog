@@ -1,6 +1,6 @@
 ---
 id: 239
-title: 'Let Me Educate Y&#8217;all About the Indie Writing Community'
+title: "Let Me Educate Y'all About the Indie Writing Community"
 date: '2019-01-25T13:07:48+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 494
-title: 'i&#8217;m thinkin&#8217; maybe'
+title: "i'm thinkin' maybe"
 date: '2019-04-10T14:13:43+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 642
-title: 'You&#8217;re My Angel'
+title: "You're My Angel"
 date: '2019-05-22T12:52:40+00:00'
 author: 'Desdemona Wren'
 layout: post

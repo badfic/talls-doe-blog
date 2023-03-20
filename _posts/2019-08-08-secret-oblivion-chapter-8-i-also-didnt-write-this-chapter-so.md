@@ -1,6 +1,6 @@
 ---
 id: 1257
-title: 'Secret Oblivion: Chapter 8 (I also didn&#8217;t write this chapter, so&#8230;)'
+title: "Secret Oblivion: Chapter 8 (I also didn't write this chapter, so…)"
 date: '2019-08-08T10:07:42+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1481
-title: 'Hi. I&#8217;m Desdemona Wren and I have written a few books. No big deal (who am I kidding? YES big deal! Read them! They&#8217;re hella gay!)'
+title: "Hi. I'm Desdemona Wren and I have written a few books. No big deal (who am I kidding? YES big deal! Read them! They're hella gay!)"
 date: '2019-08-07T07:37:00+00:00'
 author: 'Desdemona Wren'
 layout: post

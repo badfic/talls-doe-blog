@@ -1,6 +1,6 @@
 ---
 id: 1748
-title: 'How I&#8217;ve changed: Over the Decade'
+title: "How I've changed: Over the Decade"
 date: '2020-01-03T01:03:59+00:00'
 author: 'Desdemona Wren'
 layout: revision

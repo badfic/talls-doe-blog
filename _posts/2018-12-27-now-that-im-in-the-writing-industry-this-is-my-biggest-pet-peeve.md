@@ -1,6 +1,6 @@
 ---
 id: 113
-title: 'Now that I&#8217;m in the writing industry, THIS is my biggest pet peeve'
+title: "Now that I'm in the writing industry, THIS is my biggest pet peeve"
 date: '2018-12-27T15:21:40+00:00'
 author: 'Desdemona Wren'
 layout: post

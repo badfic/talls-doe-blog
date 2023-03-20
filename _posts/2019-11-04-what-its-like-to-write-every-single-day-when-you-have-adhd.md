@@ -1,6 +1,6 @@
 ---
 id: 1639
-title: 'What it&#8217;s Like to Write Every Single Day When You Have ADHD'
+title: "What it's Like to Write Every Single Day When You Have ADHD"
 date: '2019-11-04T10:11:52+00:00'
 author: 'Desdemona Wren'
 layout: post

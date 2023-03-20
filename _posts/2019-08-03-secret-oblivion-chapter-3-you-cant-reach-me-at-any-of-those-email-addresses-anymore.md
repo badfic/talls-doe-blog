@@ -1,6 +1,6 @@
 ---
 id: 1242
-title: 'Secret Oblivion: Chapter 3 (you can&#8217;t reach me at any of those email addresses anymore)'
+title: "Secret Oblivion: Chapter 3 (you can't reach me at any of those email addresses anymore)"
 date: '2019-08-03T10:07:23+00:00'
 author: 'Desdemona Wren'
 layout: post

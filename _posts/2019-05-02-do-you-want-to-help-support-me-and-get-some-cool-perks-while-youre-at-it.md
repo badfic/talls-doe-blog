@@ -1,6 +1,6 @@
 ---
 id: 1122
-title: 'Do you want to help support me and get some cool perks while you&#8217;re at it?'
+title: "Do you want to help support me and get some cool perks while you're at it?"
 date: '2019-05-02T10:30:29+00:00'
 author: 'Desdemona Wren'
 layout: post

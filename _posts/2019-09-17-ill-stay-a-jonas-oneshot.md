@@ -1,6 +1,6 @@
 ---
 id: 1376
-title: 'I&#8217;ll Stay: A JONAS oneshot'
+title: "I'll Stay: A JONAS oneshot"
 date: '2019-09-17T08:19:37+00:00'
 author: 'Desdemona Wren'
 layout: post

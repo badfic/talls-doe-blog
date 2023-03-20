@@ -1,6 +1,6 @@
 ---
 id: 1475
-title: 'I&#8217;m doing a giveaway!'
+title: "I'm doing a giveaway!"
 date: '2019-08-08T07:38:00+00:00'
 author: 'Desdemona Wren'
 layout: post

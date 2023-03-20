@@ -1,6 +1,6 @@
 ---
 id: 775
-title: '&#038; i can&#8217;t even wish this'
+title: "& i can't even wish this"
 date: '2019-06-03T14:09:50+00:00'
 author: 'Desdemona Wren'
 layout: post

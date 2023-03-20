@@ -1,6 +1,6 @@
 ---
 id: 154
-title: 'Playlist: Marjorie Diaz&#8217;s Unfortunate Introduction to Magical High Society'
+title: "Playlist: Marjorie Diaz's Unfortunate Introduction to Magical High Society"
 date: '2019-01-06T12:07:33+00:00'
 author: 'Desdemona Wren'
 layout: post

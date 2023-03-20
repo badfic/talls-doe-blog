@@ -1,6 +1,6 @@
 ---
 id: 260
-title: 'I&#8217;m not appropriating gay culture, I AM gay culture.'
+title: "I'm not appropriating gay culture, I AM gay culture."
 date: '2019-01-30T13:26:23+00:00'
 author: 'Desdemona Wren'
 layout: post

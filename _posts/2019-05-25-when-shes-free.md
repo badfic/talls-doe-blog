@@ -1,6 +1,6 @@
 ---
 id: 654
-title: 'When She&#8217;s Free'
+title: "When She's Free"
 date: '2019-05-25T12:57:31+00:00'
 author: 'Desdemona Wren'
 layout: post

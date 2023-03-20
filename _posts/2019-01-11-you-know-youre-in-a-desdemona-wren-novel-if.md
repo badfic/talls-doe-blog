@@ -1,6 +1,6 @@
 ---
 id: 172
-title: 'You Know You&#8217;re in a Desdemona Wren Novel, if&#8230;'
+title: "You Know You're in a Desdemona Wren Novel, if…"
 date: '2019-01-11T15:00:16+00:00'
 author: 'Desdemona Wren'
 layout: post

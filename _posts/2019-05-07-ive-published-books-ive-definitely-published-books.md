@@ -1,6 +1,6 @@
 ---
 id: 1131
-title: 'I&#8217;ve published books, I&#8217;ve definitely published books'
+title: "I've published books, I've definitely published books"
 date: '2019-05-07T13:26:31+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 624
-title: 'X&#8217;s Over E(x)pression'
+title: "X's Over E(x)pression"
 date: '2019-05-16T12:27:58+00:00'
 author: 'Desdemona Wren'
 layout: post

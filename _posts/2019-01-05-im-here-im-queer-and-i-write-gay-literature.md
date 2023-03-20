@@ -1,6 +1,6 @@
 ---
 id: 147
-title: 'I&#8217;m here, I&#8217;m queer, and I write gay literature'
+title: "I'm here, I'm queer, and I write gay literature"
 date: '2019-01-05T23:56:08+00:00'
 author: 'Desdemona Wren'
 layout: post

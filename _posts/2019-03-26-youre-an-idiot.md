@@ -1,6 +1,6 @@
 ---
 id: 443
-title: 'you&#8217;re an idiot'
+title: "you're an idiot"
 date: '2019-03-26T13:51:33+00:00'
 author: 'Desdemona Wren'
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 437
-title: 'Vignette: You&#8217;re Not My Girlfriend'
+title: "Vignette: You're Not My Girlfriend"
 date: '2019-03-24T13:49:11+00:00'
 author: 'Desdemona Wren'
 layout: post

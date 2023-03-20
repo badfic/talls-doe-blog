@@ -1,6 +1,6 @@
 ---
 id: 467
-title: 'i&#8217;m the selfish one'
+title: "i'm the selfish one"
 date: '2019-05-01T14:02:57+00:00'
 author: 'Desdemona Wren'
 layout: post

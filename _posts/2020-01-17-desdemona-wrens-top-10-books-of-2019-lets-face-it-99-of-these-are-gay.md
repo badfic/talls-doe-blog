@@ -1,6 +1,6 @@
 ---
 id: 1735
-title: 'Desdemona Wren&#8217;s Top 10 Books of 2019 (Let&#8217;s face it, 99% of these are gay)'
+title: "Desdemona Wren's Top 10 Books of 2019 (Let's face it, 99% of these are gay)"
 date: '2020-01-17T21:40:54+00:00'
 author: 'Desdemona Wren'
 layout: post

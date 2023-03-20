@@ -1,6 +1,6 @@
 ---
 id: 470
-title: 'but it&#8217;s easy for you not to care'
+title: "but it's easy for you not to care"
 date: '2019-10-13T14:03:51+00:00'
 author: 'Desdemona Wren'
 layout: post

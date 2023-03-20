@@ -1,6 +1,6 @@
 ---
 id: 289
-title: 'What it&#8217;s like to have me as a beta&#8230;'
+title: "What it's like to have me as a beta…"
 date: '2019-02-06T11:37:36+00:00'
 author: 'Desdemona Wren'
 layout: post

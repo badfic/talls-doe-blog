@@ -1,6 +1,6 @@
 ---
 id: 1430
-title: 'There&#8217;s Something about Broadchurch: A Doctor Who &#038; Broadchuch Crossover Fanfiction'
+title: "There's Something about Broadchurch: A Doctor Who &#038; Broadchuch Crossover Fanfiction"
 date: '2019-10-03T09:15:28+00:00'
 author: 'Desdemona Wren'
 layout: post

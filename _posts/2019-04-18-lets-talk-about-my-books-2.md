@@ -1,6 +1,6 @@
 ---
 id: 1113
-title: 'Let&#8217;s Talk About My Books'
+title: "Let's Talk About My Books"
 date: '2019-04-18T14:28:13+00:00'
 author: 'Desdemona Wren'
 layout: post

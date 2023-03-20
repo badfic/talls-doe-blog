@@ -1,6 +1,6 @@
 ---
 id: 43
-title: 'Writing Advice: Overcoming Writer&#8217;s Block'
+title: "Writing Advice: Overcoming Writer's Block"
 date: '2018-12-10T15:00:12+00:00'
 author: 'Desdemona Wren'
 layout: post

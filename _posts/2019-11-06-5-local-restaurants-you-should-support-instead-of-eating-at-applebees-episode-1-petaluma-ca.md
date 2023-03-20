@@ -1,6 +1,6 @@
 ---
 id: 1648
-title: '5 Local Restaurants You Should Support Instead of Eating at Applebee&#8217;s, Episode 1: Petaluma, CA'
+title: "5 Local Restaurants You Should Support Instead of Eating at Applebee's, Episode 1: Petaluma, CA"
 date: '2019-11-06T13:16:45+00:00'
 author: 'Desdemona Wren'
 layout: post

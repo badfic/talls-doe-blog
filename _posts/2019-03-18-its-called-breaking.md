@@ -1,6 +1,6 @@
 ---
 id: 419
-title: 'It&#8217;s Called Breaking'
+title: "It's Called Breaking"
 date: '2019-03-18T13:41:48+00:00'
 author: 'Desdemona Wren'
 layout: post

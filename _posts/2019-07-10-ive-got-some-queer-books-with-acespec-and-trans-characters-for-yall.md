@@ -1,6 +1,6 @@
 ---
 id: 1449
-title: 'I&#8217;ve got some queer books with acespec and trans characters for y&#8217;all.'
+title: "I've got some queer books with acespec and trans characters for y'all."
 date: '2019-07-10T00:20:02+00:00'
 author: 'Desdemona Wren'
 layout: post

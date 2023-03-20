@@ -1,6 +1,6 @@
 ---
 id: 1188
-title: 'Happy queermas everyone! I&#8217;ve got some queer books you can read (Spoiler alert: I wrote them)'
+title: "Happy queermas everyone! I've got some queer books you can read (Spoiler alert: I wrote them)"
 date: '2019-06-03T12:53:01+00:00'
 author: 'Desdemona Wren'
 layout: post

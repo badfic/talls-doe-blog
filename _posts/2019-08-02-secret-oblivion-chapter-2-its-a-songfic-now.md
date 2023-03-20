@@ -1,6 +1,6 @@
 ---
 id: 1239
-title: 'Secret Oblivion: Chapter 2 (It&#8217;s a songfic now)'
+title: "Secret Oblivion: Chapter 2 (It's a songfic now)"
 date: '2019-08-02T10:07:53+00:00'
 author: 'Desdemona Wren'
 layout: post

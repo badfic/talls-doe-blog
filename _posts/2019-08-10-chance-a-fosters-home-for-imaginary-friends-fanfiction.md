@@ -1,6 +1,6 @@
 ---
 id: 1263
-title: 'Chance: A Foster&#8217;s Home for Imaginary Friends Fanfiction'
+title: "Chance: A Foster's Home for Imaginary Friends Fanfiction"
 date: '2019-08-10T10:07:07+00:00'
 author: 'Desdemona Wren'
 layout: post

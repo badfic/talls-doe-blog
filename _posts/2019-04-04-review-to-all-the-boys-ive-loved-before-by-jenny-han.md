@@ -1,6 +1,6 @@
 ---
 id: 1035
-title: 'Review: To All the Boys I&#8217;ve Loved Before by Jenny Han'
+title: "Review: To All the Boys I've Loved Before by Jenny Han"
 date: '2019-04-04T09:28:24+00:00'
 author: 'Desdemona Wren'
 layout: post

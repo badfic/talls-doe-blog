@@ -1,6 +1,6 @@
 ---
 id: 476
-title: '7 reasons it&#8217;s never the same'
+title: "7 reasons it's never the same"
 date: '2019-04-05T14:06:13+00:00'
 author: 'Desdemona Wren'
 layout: post
